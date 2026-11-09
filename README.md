@@ -13,7 +13,7 @@ A clean, dark home screen for the **Chromecast with Google TV 4K**, with the ads
 - A picture screensaver that can differ from your Home wallpaper
 - YouTube and Netflix remote buttons mapped to their apps
 
-No wallpaper or screensaver images are included. Add your own.
+Three original sample wallpapers are included in `setup/theme/wallpapers/`: Blood Moon, Crow Storm and Eclipse. They rotate every 30 minutes. Replace them with your own whenever you like.
 
 ## Get started
 

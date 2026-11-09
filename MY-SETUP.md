@@ -17,7 +17,7 @@ their own list from [`examples/`](examples/) and [`PROMPT.md`](PROMPT.md).
 | Short date | `SUN 8 NOV` | `strings.xml` |
 | Picture screensaver | Full-screen picture with no clock; can differ from the Home wallpaper | `clock_wallpaper_only` in `config.xml` |
 
-The wallpaper is not included: add your own image.
+Three original sample wallpapers are included in `setup/theme/wallpapers/`, or you can use your own.
 
 ## Before you start
 
@@ -62,8 +62,8 @@ Comment out any line you want to keep first. The second list disables Play Games
 
 ## 4. Install the launcher, then take over Home
 
-Edit `dock_apps` in [`setup/theme/config.json`](setup/theme/config.json) for your apps, and add a JPG at
-`setup/theme/wallpapers/01.jpg`.
+Edit `dock_apps` in [`setup/theme/config.json`](setup/theme/config.json) for your apps. The sample wallpapers in
+`setup/theme/wallpapers/` are used automatically; delete them and add your own JPGs if you prefer.
 
 ```bash
 export JAVA_HOME=/opt/homebrew/opt/openjdk@17 ANDROID_HOME=$HOME/Library/Android/sdk
