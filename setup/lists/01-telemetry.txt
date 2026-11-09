@@ -1,0 +1,8 @@
+com.google.android.feedback
+com.android.tv.feedbackconsent
+com.google.android.tv.remotecontrol.logging     # remote usage logging
+com.google.android.apps.tv.netoscope            # network diagnostics reporting
+com.google.android.federatedcompute
+com.google.android.ondevicepersonalization.services
+com.google.android.adservices.api               # Privacy Sandbox ad services
+com.google.android.ext.adservices.api

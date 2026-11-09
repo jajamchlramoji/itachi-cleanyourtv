@@ -1,0 +1,28 @@
+{
+  "background_color": "#000000",
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 30,
+  "wallpaper_order": "sequential",
+  "wallpaper_captions": false,
+  "wallpaper_true_color": true,
+  "wallpaper_dim": 0,
+  "ambient_glow": false,
+  "white_logos": true,
+  "spotlight": true,
+  "app_glow": true,
+  "rolling_seconds": true,
+  "columns": 7,
+  "dock_band": false,
+  "icon_only_buttons": true,
+  "wifi_label_width": 0,
+  "dock_apps": [
+    "com.surfshark.vpnclient.android",
+    "com.amazon.amazonvideo.livingroom",
+    "com.netflix.ninja",
+    "com.google.android.youtube.tv",
+    "com.hulu.livingroomplus",
+    "com.disney.disneyplus",
+    "com.apple.atve.androidtv.appletv"
+  ],
+  "boot_spin": true
+}
